@@ -81,28 +81,7 @@ This is a paid product. Your **one-time purchase of $80 USD** includes:
 
 Rated **4.8 / 5** across **640+ buyers**. Here's what people say after putting Telegram Scraper to work:
 
-<div align="center">
-
-<a href="https://telegramscraper.shop/" title="Read customer reviews on telegramscraper.shop">
-<img src="https://telegramscraper.shop/assets/clients/dae.webp" height="44" alt="DAE EUROPE" />
-<img src="https://telegramscraper.shop/assets/clients/light.webp" height="44" alt="Light | Airaa" />
-<img src="https://telegramscraper.shop/assets/clients/cizn.webp" height="44" alt="Cinz" />
-<img src="https://telegramscraper.shop/assets/clients/naka.webp" height="44" alt="NAKAMA" />
-<img src="https://telegramscraper.shop/assets/clients/el.webp" height="44" alt="El" />
-<img src="https://telegramscraper.shop/assets/clients/ivan.webp" height="44" alt="Ivan" />
-<img src="https://telegramscraper.shop/assets/clients/chinise.webp" height="44" alt="A satisfied buyer" />
-<img src="https://telegramscraper.shop/assets/clients/tovar.webp" height="44" alt="tovarishch" />
-<img src="https://telegramscraper.shop/assets/clients/blood.webp" height="44" alt="Blood007" />
-<img src="https://telegramscraper.shop/assets/clients/abc.webp" height="44" alt="ABC - Droll" />
-<img src="https://telegramscraper.shop/assets/clients/sall.webp" height="44" alt="Sallem" />
-<img src="https://telegramscraper.shop/assets/clients/cry.webp" height="44" alt="Cryptowiz" />
-</a>
-
-<sub>Verified buyers — see their proof screenshots on the <a href="https://telegramscraper.shop/">website</a>.</sub>
-
-</div>
-
-<br/>
+<sub><b>Verified buyers</b> — DAE EUROPE, Light | Airaa, Cinz, NAKAMA, El, Ivan, Blood007, ABC - Droll, Sallem, Cryptowiz, and hundreds more. See their proof screenshots on the <a href="https://telegramscraper.shop/">website</a>.</sub>
 
 > ⭐⭐⭐⭐⭐ &nbsp; "Best Telegram scraper I have used. Setup was straightforward and support was responsive." — **Cinz**
 
